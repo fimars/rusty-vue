@@ -1,0 +1,28 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test results
+/coverage/
+*.out
+
+# IDE settings
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Go specific generated files
+*.test
+*.a
+*.o
+*.test.exe
+*.coverprofile
+*.prof
+*.log
+
+# Build directory
+/bin/
+/pkg/
